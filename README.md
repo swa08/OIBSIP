@@ -1,2 +1,2 @@
 # OIBSIP
-temperature converture using simple HTML, CSS and Javascript
+temperature converter using simple HTML, CSS and Javascript
